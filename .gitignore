@@ -1,0 +1,23 @@
+*.pyc
+log.html
+output.xml
+report.html
+*.jpg
+*.png
+output.json
+
+run/
+result/
+
+# IDE
+*.iml
+.idea
+
+.classpath
+.project
+.settings/
+target/
+
+# OS metadata
+.DS_Store
+robot_style_guide.iml

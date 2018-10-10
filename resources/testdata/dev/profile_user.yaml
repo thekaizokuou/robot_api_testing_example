@@ -1,0 +1,7 @@
+get_profile:
+    success: 12341234
+    not_found: 12344321
+    dormant: 12346666
+    inactive: 12347777
+    suspend: 12348888
+    frozen: 12349999
