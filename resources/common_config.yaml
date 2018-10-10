@@ -1,1 +1,6 @@
-get_profile_uri: /customer/v1/profiles/
+# profiles api
+get_profiles_uri: /customer/v1/profiles/
+post_profiles_uri: /customer/v1/profiles
+
+# Balances api
+post_balances_uri: /customer/v1/balances

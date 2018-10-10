@@ -1,7 +1,29 @@
-get_profile:
+get_profile_success:
     success: 12341234
+    first_name: Adam
+    last_name: Warlock
+    card_identification: XY1029384756
+
+get_profile_failed:
     not_found: 12344321
     dormant: 12346666
     inactive: 12347777
     suspend: 12348888
     frozen: 12349999
+
+post_profile_success:
+    success: XY12345667890
+
+post_profile_failed:
+    card_not_found: ZZ1234567890
+    card_already_used: USED12345
+
+post_balance_success:
+    success: XY12345667890
+
+post_balance_failed:
+    card_not_found: ZZ1234567890
+
+basic_auth:
+    username: robot
+    password: robot

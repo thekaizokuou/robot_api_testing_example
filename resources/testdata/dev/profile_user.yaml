@@ -5,3 +5,8 @@ get_profile:
     inactive: 12347777
     suspend: 12348888
     frozen: 12349999
+
+post_profile:
+    success: XY12345667890
+    card_not_found: ZZ1234567890
+    card_already_used: USED12345

@@ -1,0 +1,18 @@
+success_message: Success
+failed_message: Failed
+error_user_not_found: User not found
+error_user_frozen: User is Frozen
+error_user_dormant: User is Dormant
+error_user_inactive: User is Inactive
+error_user_suspend: User is Suspend
+error_card_not_exist: Card is not exist in system
+error_card_already_used: This Card already have been used
+
+code_success: 1000
+code_user_not_found: 1023
+code_user_frozen: 1039
+code_user_dormant: 1036
+code_user_inactive: 1037
+code_user_suspend: 1038
+code_card_not_exist: 1002
+code_card_already_used: 1003

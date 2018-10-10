@@ -1,0 +1,7 @@
+success_message: Success
+error_card_not_exist: Card is not exist in system
+error_authorize_failed: You didn't have Authorization to get balance
+
+code_success: 1000
+code_card_not_exist: 1002
+code_authorize_failed: 1009
